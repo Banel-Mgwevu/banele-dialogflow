@@ -1,0 +1,19 @@
+{
+  "name": "dialogflow-heroku-fulfillment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dialogflow-heroku-fulfillment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lets-talk/dialogflow-fulfillment": "^1.6.3",
+    "body-parser": "^1.20.1",
+    "dialogflow": "^1.2.0",
+    "dialogflow-fulfillment": "0.6.1",
+    "express": "^4.18.2",
+    "node-webhooks": "^1.4.2"
+  }
+}
